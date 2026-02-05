@@ -65,7 +65,7 @@ NAT for internet, Static IP is recommended, as it is used for a server not a cli
          - Sales  
        - Users  
        - Groups  
-![OU Structure](ous.png) 
+![OU Structure](OUs.png) 
 ## To create users/groups and assign to OU's
    - New → User (e.g., in IT OU)  
    - New → Group (e.g., IT-Admins – Global/Security)  
