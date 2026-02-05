@@ -30,7 +30,7 @@ NAT for internet, Static IP is recommended, as it is used for a server not a cli
    - Installer disc image (ISO) → Select your Windows Server 2022 ISO  from the location on your hard drive
    - Guest OS: Microsoft Windows → Windows Server 2022  
    - Configure hardware: 4+ GB RAM, 2+ cores, network adapter (NAT)  
-![VMware Console](screenshots/vmware.png)
+![VMware Console](vmware.png)
    - Install OS normally (choose Datacneter Evaluation with Desktop Experience if desired.)
 
 ## Initial Server Configuration
@@ -65,11 +65,11 @@ NAT for internet, Static IP is recommended, as it is used for a server not a cli
          - Sales  
        - Users  
        - Groups  
-![OU Structure](screenshots/ous.png) 
+![OU Structure](ous.png) 
 ## To create users/groups and assign to OU's
    - New → User (e.g., in IT OU)  
    - New → Group (e.g., IT-Admins – Global/Security)  
-![AD Users and Computers](screenshots/aduc.png)  
+![AD Users and Computers](aduc.png)  
 
 ## Group Policy Basics
    - Open Group Policy Management (gpmc.msc)  
